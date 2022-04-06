@@ -23,7 +23,7 @@ To make the QR component I focused on making the css classes as clear as posible
 
 ### Screenshot
 
-![](Screenshot Frontend Mentor QR code component.png)
+![](./Screenshot%20Frontend%20Mentor%20QR%20code%20component.png)
 
 ### Links
 
