@@ -1,5 +1,5 @@
 :root {
-    --fuente-principal: 'Outfit', sans-serif;
+    --Main-font: 'Outfit', sans-serif;
     --White: hsl(0, 0%, 100%);
     --Light-gray: hsl(212, 45%, 89%);
     --Grayis-blue: hsl(220, 15%, 55%);
@@ -21,13 +21,13 @@ body {
     align-content: center;
     justify-content: center;
     
-    font-family: var(--fuente-principal);
+    font-family: var(--Main-font);
     font-size: 1.5rem;
     background-color: var(--Light-gray);
 }
 
 
-.contenedor-ventana{
+.cont-window{
     display: grid;
     gap: 2rem;
     border: 2rem;
@@ -40,7 +40,7 @@ body {
 
 }
 
-.img-ventana {
+.img-window {
     width: 100%;
     height: 100%;
     border-radius: 1rem;
@@ -53,13 +53,13 @@ body {
     text-align: center;
 }
 
-.titulo-ventana {
+.title-window {
     color: var(--Dark-blue);
     font-size: 2.2rem;
     font-weight: 700;
 }
 
-.texto-ventana {
+.text-window {
     color: var(--Grayis-blue);
     font-weight: 400;
     font-size: 1.5rem;
